@@ -1,0 +1,14 @@
+.DS_S*
+__pycache__/
+audio_utils.py
+data_utils.py
+image_utils.py
+*_utils.py.*
+*.py.*
+*.pyc
+*.pyc.*
+tmp.wav
+data/
+Homework0*_utils.py
+!Homework05_utils.py
+!Homework05_utils.pyc
